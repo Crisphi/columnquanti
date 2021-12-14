@@ -1,2 +1,2 @@
 # columnquanti
-Small script to quantify Entries of csv columns
+Small script to quantify entries of csv columns

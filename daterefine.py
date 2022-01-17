@@ -14,7 +14,7 @@ os.chdir("./metadata") #replace with path to directory where the data sets to be
 path = os.getcwd()
 files = []
 files = os.listdir(path)
-columnsNone = {} #dict with all exceptions; can be exported if needed; right now the script doesn't export it
+columnsNone = {}
 columnsTotal = {}
 columnsNoneAgg = {}
 columnsTotalAgg = {}
